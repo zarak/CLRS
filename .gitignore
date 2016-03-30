@@ -1,0 +1,5 @@
+*.DS*
+mycert.pem
+mykey.key
+*.swp
+.ipynb*
